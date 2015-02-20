@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#12679B</item>
+        <item name="colorControlNormal">#CCCCCC</item>
+        <item name="colorControlActivated">#12679B</item>
+        <item name="colorControlHighlight">#12679B</item>
+    </style>
+
+    <style name="CoolButton" parent="android:style/Widget.Material.Button">
+        <item name="android:background">#12679B</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">8dp</item>
+    </style>
+
+</resources>
